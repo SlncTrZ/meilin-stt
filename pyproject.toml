@@ -32,7 +32,8 @@ dependencies = [
 # Wheel CPU-only là mặc định của sherpa-onnx. GPU cần build riêng (scripts/install-gpu.sh)
 # + onnxruntime-gpu nếu muốn tăng tốc các stage torch/onnx phụ trợ.
 gpu = ["onnxruntime-gpu>=1.18"]
-dev = ["pytest>=8.0", "ruff>=0.5"]
+# httpx: bắt buộc cho fastapi.testclient (TestClient) — thiếu nó CI đỏ dù logic đúng.
+dev = ["pytest>=8.0", "ruff>=0.5", "httpx>=0.27"]
 
 [project.scripts]
 meilin-stt = "server.app:main"
