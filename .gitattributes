@@ -1,0 +1,7 @@
+# Chuẩn hoá line ending: repo dùng LF, checkout trên Windows không làm bẩn git status.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.wav binary
+*.onnx binary
+*.model binary
