@@ -1,0 +1,61 @@
+# meilin-stt — compose CPU-only.
+# GPU cố tình KHÔNG bật mặc định: máy đích chạy nhiều dịch vụ khác, GPU là của họ.
+# Muốn thử GPU: bỏ comment mục `deploy.resources` + build image GPU riêng (docs/gpu-concurrency.md).
+
+services:
+  meilin-stt:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    image: meilin-stt:0.1.0-cpu
+    container_name: meilin-stt
+    restart: unless-stopped
+    # Chỉ mở trên loopback host; ingress/tunnel đứng trước (xem docs/security.md).
+    ports:
+      - "127.0.0.1:8766:8766"
+    env_file:
+      - ../.env
+    environment:
+      STT_HOST: "0.0.0.0"
+      STT_ALLOW_PUBLIC: "1"
+      STT_ADMIN_LOOPBACK_ONLY: "1"
+    volumes:
+      # Model cache: mount ra host để không tải lại mỗi lần rebuild.
+      - meilin-stt-models:/home/meilin/.cache/sherpa-onnx
+      # Dữ liệu học (feedback/lexicon/artifacts) phải bền vững.
+      - ../data:/app/data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    # Trần tài nguyên để không tranh với dịch vụ khác trên cùng máy.
+    mem_limit: 3g
+    cpus: 3.0
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+
+  meilin-stt-nightly:
+    image: meilin-stt:0.1.0-cpu
+    container_name: meilin-stt-nightly
+    profiles: ["nightly"]
+    restart: "no"
+    env_file:
+      - ../.env
+    environment:
+      STT_HOST: "127.0.0.1"
+    volumes:
+      - meilin-stt-models:/home/meilin/.cache/sherpa-onnx
+      - ../data:/app/data
+    entrypoint: ["python", "-m", "nightly.runner"]
+    command: ["--json"]
+    # Chạy tay: docker compose --profile nightly run --rm meilin-stt-nightly
+    # Hoặc để systemd timer trên host gọi docker compose run (khuyến nghị: systemd giữ gate tài nguyên).
+
+volumes:
+  meilin-stt-models:

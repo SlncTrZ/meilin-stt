@@ -1,0 +1,36 @@
+[Unit]
+Description=meilin-stt — offline Vietnamese STT API (sherpa-onnx)
+Documentation=file:///opt/meilin-stt/README.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=meilin
+Group=meilin
+WorkingDirectory=/opt/meilin-stt
+EnvironmentFile=/etc/meilin-stt/stt.env
+Environment=PYTHONUNBUFFERED=1
+# Chạy ẩn hoàn toàn, không cấp terminal; log qua journald.
+StandardOutput=journal
+StandardError=journal
+ExecStart=/opt/meilin-stt/.venv/bin/python -m server.app
+# Nạp lại hotwords/replacements khi nightly job publish artifact mới.
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=always
+RestartSec=3
+# Trần tài nguyên: máy này chạy nhiều dịch vụ khác.
+Nice=5
+IOSchedulingClass=best-effort
+IOSchedulingPriority=5
+MemoryMax=3G
+CPUQuota=300%
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/opt/meilin-stt/data /var/lib/meilin-stt
+# Model cache mặc định ở ~/.cache/sherpa-onnx (read-only là đủ).
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,34 @@
+[Unit]
+Description=meilin-stt nightly — học lexicon, sinh artifact, regression gate
+Documentation=file:///opt/meilin-stt/docs/nightly.md
+After=meilin-stt.service
+# Chỉ chạy khi main service đang chạy (reload sau khi publish cần nó sống).
+Requires=meilin-stt.service
+
+[Service]
+Type=oneshot
+User=meilin
+Group=meilin
+WorkingDirectory=/opt/meilin-stt
+EnvironmentFile=/etc/meilin-stt/stt.env
+Environment=PYTHONUNBUFFERED=1
+# GATE TÀI NGUYÊN: máy chia sẻ với dịch vụ khác -> không đủ headroom thì bỏ qua.
+# Exit != 0 ở ExecCondition = skip unit (không phải failure), Persistent=1 sẽ chạy bù.
+ExecCondition=/opt/meilin-stt/.venv/bin/python -m nightly.gpu_gate --min-free-mb 1500 --max-util 20 --samples 3 --interval 1 --min-free-cpu-pct 25
+ExecStart=/opt/meilin-stt/.venv/bin/python -m nightly.runner
+# Publish xong thì bảo main service nạp lại hotwords.
+ExecStartPost=/bin/systemctl reload meilin-stt.service
+TimeoutStartSec=3600
+# Job nền: ưu tiên thấp nhất, không tranh CPU/IO với dịch vụ khác.
+Nice=19
+IOSchedulingClass=idle
+CPUQuota=150%
+MemoryMax=2G
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/opt/meilin-stt/data
+
+[Install]
+WantedBy=default.target

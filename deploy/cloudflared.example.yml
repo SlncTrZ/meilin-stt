@@ -1,0 +1,26 @@
+# meilin-stt — ví dụ tunnel Cloudflare (đặt ingress trước service, KHÔNG mở port thô).
+#
+# 1. Tạo tunnel:      cloudflared tunnel create meilin-stt
+# 2. Credentials:     ~/.cloudflared/<TUNNEL_ID>.json  (chmod 600, KHÔNG commit)
+# 3. Copy file này:   cp cloudflared.example.yml ~/.cloudflared/meilin-stt.yml
+# 4. Chạy service:    cloudflared --config ~/.cloudflared/meilin-stt.yml tunnel run meilin-stt
+#
+# Auth: tunnel chỉ đảm bảo TLS + đường đi. Việc xác thực người gọi do agents/ingress
+# của máy đích quyết định (Cloudflare Access, service token, mTLS...).
+# Service meilin-stt KHÔNG có auth — xem docs/security.md.
+
+tunnel: REPLACE_WITH_TUNNEL_ID
+credentials-file: /home/meilin/.cloudflared/REPLACE_WITH_TUNNEL_ID.json
+
+ingress:
+  # Chỉ mở /health và /ws, /v1/transcribe cho người gọi ngoài.
+  - hostname: stt.example.internal
+    service: http://127.0.0.1:8766
+    originRequest:
+      connectTimeout: 10s
+      noTLSVerify: false
+      # WS: giữ kết nối lâu cho utterance dài
+      keepAliveTimeout: 90s
+      httpHostHeader: stt.example.internal
+  # Chặn mọi thứ khác — đừng để /v1/admin/* ra ngoài.
+  - service: http_status:404

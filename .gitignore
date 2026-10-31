@@ -1,0 +1,53 @@
+# --- Secrets / local env ---------------------------------------------------
+.env
+.env.*
+!.env.example
+
+# --- Models (never commit weights) ----------------------------------------
+*.onnx
+*.bin
+*.model
+models/**/*.onnx
+models/**/*.tar.bz2
+models/replacements.json
+models/*.vocab
+
+# --- Runtime data (feedback, lexicon history, artifacts) ------------------
+data/utterances.jsonl
+data/feedback.jsonl
+data/device_profile.json
+data/artifacts/
+data/reports/
+data/*.log
+
+# --- Python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+
+# --- Node (bundled Pi client extension) ----------------------------------
+clients/pi-voice-input/node_modules/
+clients/pi-voice-input/dist/
+
+# --- Agent-local config (must never be committed - global rule) ----------
+AGENTS.md
+.agents/
+CLAUDE.md
+.claude/
+
+# --- Private workspace (never public) -------------------------------------
+_private/
+
+# --- OS / editor ----------------------------------------------------------
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

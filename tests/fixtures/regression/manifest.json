@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "note": "Bộ regression đóng băng cho nightly gate. Thêm case = thêm file wav 16kHz mono PCM16 vào thư mục này + dòng tương ứng. Gate chỉ chạy khi manifest có >= 1 case. KHÔNG sửa 'expect' cho khớp output của model — 'expect' là ground truth do người viết.",
+  "cases": []
+}

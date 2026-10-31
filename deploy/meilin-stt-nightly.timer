@@ -1,0 +1,14 @@
+[Unit]
+Description=meilin-stt nightly window (03:00 mỗi đêm)
+
+[Timer]
+# Cửa sổ 03:00, trễ ngẫu nhiên 15 phút để không đụng backup/cron của dịch vụ khác.
+OnCalendar=*-*-* 03:00:00
+RandomizedDelaySec=15min
+# Nếu đêm đó gate fail hoặc máy off -> chạy bù khi có điều kiện.
+Persistent=true
+AccuracySec=1min
+Unit=meilin-stt-nightly.service
+
+[Install]
+WantedBy=timers.target

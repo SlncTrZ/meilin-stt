@@ -1,0 +1,61 @@
+[build-system]
+requires = ["hatchling>=1.25.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "meilin-stt"
+version = "0.1.0"
+description = "Offline Vietnamese STT service (sherpa-onnx) với vòng học lexicon: hotwords phân tier + regression gate + nightly job"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "SlncTrZ", email = "SlncTrZ@users.noreply.github.com" }]
+keywords = ["asr", "stt", "vietnamese", "sherpa-onnx", "offline", "hotwords"]
+classifiers = [
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: POSIX :: Linux",
+  "Topic :: Multimedia :: Sound/Audio :: Speech",
+]
+dependencies = [
+  "sherpa-onnx>=1.10.0",
+  "fastapi>=0.110",
+  "uvicorn[standard]>=0.27",
+  "numpy>=1.24",
+  "soundfile>=0.12",
+  "pydantic>=2.5",
+  "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+# Wheel CPU-only là mặc định của sherpa-onnx. GPU cần build riêng (scripts/install-gpu.sh)
+# + onnxruntime-gpu nếu muốn tăng tốc các stage torch/onnx phụ trợ.
+gpu = ["onnxruntime-gpu>=1.18"]
+dev = ["pytest>=8.0", "ruff>=0.5"]
+
+[project.scripts]
+meilin-stt = "server.app:main"
+meilin-stt-bench = "server.bench:main"
+meilin-stt-lexicon = "lexicon.cli:main"
+meilin-stt-nightly = "nightly.runner:main"
+meilin-stt-gpu-gate = "nightly.gpu_gate:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["server", "lexicon", "nightly"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+# FastAPI idiom: File(...)/Query(...)/Body(...) làm default argument là chuẩn của framework.
+"server/app.py" = ["B008"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

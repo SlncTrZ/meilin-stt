@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling>=1.25.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pi-voice-worker"
+version = "0.1.8"
+description = "Sherpa-ONNX local voice input worker (websocket) — Voxtral worker đã bị gỡ"
+requires-python = ">=3.11"
+dependencies = [
+  "sherpa-onnx>=1.10.0",
+]
+
+[tool.uv]
+package = true

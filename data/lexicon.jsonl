@@ -1,0 +1,300 @@
+{"term": "MEILIN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SLNCTRZ", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SCRESTTRD", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PI", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ZED", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "QDRANT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "N8N", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CLOUDFLARE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CLOUDFLARED", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TAILSCALE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GITHUB", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GITLAB", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DOCKER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DOCKER COMPOSE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KUBERNETES", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "POSTGRES", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "POSTGRESQL", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "REDIS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SQLITE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "OLLAMA", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DEEPSEEK", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GEMINI", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CLAUDE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CLAUDE CODE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHATGPT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "COPILOT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CURSOR", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WINDSURF", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "AIDER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ONNX", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ONNX RUNTIME", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SHERPA ONNX", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ZIPFORMER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WHISPER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SILERO", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SILERO VAD", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FASTAPI", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "UVICORN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WEBSOCKET", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SYSTEMD", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SYSTEMD TIMER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NGINX", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRAEFIK", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "COOLIFY", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SUPABASE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PINECONE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WEAVIATE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MILVUS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MCP", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "LSP", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SSE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "JSONL", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "YAML", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TOML", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TYPESCRIPT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "JAVASCRIPT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PYTHON", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RUST", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GOLANG", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NODEJS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "REACT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NEXTJS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VITE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TAILWIND", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SHADCN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GRADIO", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "STREAMLIT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "JUPYTER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PANDAS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NUMPY", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PYTORCH", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TENSORFLOW", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CUDA", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CUDNN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NVIDIA", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RTX 2080", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "AMD", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "INTEL", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "UBUNTU", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DEBIAN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WSL", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "POWERSHELL", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HYPER-V", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PROXMOX", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRUENAS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SYNOLOGY", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HUGGING FACE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MISTRAL", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "LLAMA", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "QWEN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GEMMA", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GROQ", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "OPENROUTER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CEREBRAS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VIBERT", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PYANNOTE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CAM++", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DNSMOS", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CONVTASNET", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ROVER", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SENTENCEPIECE", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRƯƠNG CÔNG ĐỊNH", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SLNC TRZ", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MEI LIN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIAO THỨC MCP", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CYBER BRAIN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CYBERBRAIN", "tier": "A", "score": 2.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ZIPFORMER-68M", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ZIPFORMER-30M", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VOSK", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PARAKEET", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SENSEVOICE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HOTWORD", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HOTWORDS", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CONTEXT GRAPH", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BPE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TOKENIZER", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "EMBEDDING", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VECTOR DB", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RAG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "LLM", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ASR", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "STT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TTS", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VAD", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CER", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WER", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RTF", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "P95", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "P50", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "LATENCY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "THROUGHPUT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BENCHMARK", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "REGRESSION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PIPELINE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CRONJOB", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HEALTH CHECK", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ROLLBACK", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SNAPSHOT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ARTIFACT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MIGRATION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ADR", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ROADMAP", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BACKLOG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHECKPOINT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CONTEXT TOKEN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GATEWAY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "OAUTH", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PKCE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "JWT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MTLS", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TLS", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BEARER TOKEN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "API KEY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WEBHOOK", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RATE LIMIT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "IDEMPOTENT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ATOMIC", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FAIL CLOSED", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "LEAST PRIVILEGE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "THREAT MODEL", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "INVARIANT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DETERMINISTIC", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "IMMUTABLE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SANDBOX", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "STREAMING", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PARTIAL RESULT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FINAL RESULT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SAMPLE RATE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PCM16", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MONO", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FFMPEG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VAD SEGMENT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "AUDIO CAPTURE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DIARIZATION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SPEAKER EMBEDDING", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PUNCTUATION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PSEUDO LABEL", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DISTILLATION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FINE TUNE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "OVERFITTING", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BATCH SIZE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GRADIENT CHECKPOINT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FP16", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "INT8", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "QUANTIZATION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "INFERENCE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MODEL REGISTRY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "WARM LOAD", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "COLD START", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MEMORY FOOTPRINT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "VRAM", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HEADROOM", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "COTENANCY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SYSTEMD UNIT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "EXEC CONDITION", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ONFAIL", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RESTART POLICY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "JOURNALCTL", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SYSLOG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TELEMETRY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "OBSERVABILITY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "METRICS", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRACING", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SLO", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SLA", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PAGER DUTY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RUNBOOK", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "POSTMORTEM", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "INCIDENT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "FEATURE FLAG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CANARY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BLUE GREEN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ROLLOUT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ROLLBACK PLAN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BACKUP", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RESTORE", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DISASTER RECOVERY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRÍ TUỆ NHÂN TẠO", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HỌC MÁY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HỌC SÂU", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MẠNG NƠ-RON", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "XỬ LÝ NGÔN NGỮ TỰ NHIÊN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NHẬN DẠNG GIỌNG NÓI", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TỔNG HỢP GIỌNG NÓI", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "DỮ LIỆU HUẤN LUYỆN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MÔ HÌNH NGÔN NGỮ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHUYỂN ĐỔI SỐ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TỰ ĐỘNG HOÁ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HẠ TẦNG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ĐIỆN TOÁN ĐÁM MÂY", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MÁY CHỦ ẢO", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SAO LƯU", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PHỤC HỒI", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIÁM SÁT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NHẬT KÝ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CẢNH BÁO", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "QUY TRÌNH", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KIẾN TRÚC HỆ THỐNG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MÃ NGUỒN MỞ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIT COMMIT", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PULL REQUEST", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CI CD", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "UNIT TEST", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "INTEGRATION TEST", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "END TO END", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KIỂM THỬ TỰ ĐỘNG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CƠ SỞ DỮ LIỆU", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRUY VẤN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHỈ MỤC", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BĂM MẬT KHẨU", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "XÁC THỰC", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PHÂN QUYỀN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MÃ HOÁ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHỨNG CHỈ SSL", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TÊN MIỀN", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BĂNG THÔNG", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ĐỘ TRỄ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TẢI ĐỒNG THỜI", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIỚI HẠN TỐC ĐỘ", "tier": "B", "score": 1.5, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BÁO CÁO", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TÀI LIỆU", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KẾ HOẠCH", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TIẾN ĐỘ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NGHIỆM THU", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KIỂM THỬ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TRIỂN KHAI", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BẢO TRÌ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TỐI ƯU", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "SỰ CỐ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PHƯƠNG ÁN", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIẢI PHÁP", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "YÊU CẦU", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHỨC NĂNG", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIAO DIỆN", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HIỆU NĂNG", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "CHI PHÍ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "RỦI RO", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NGÂN SÁCH", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NHÂN SỰ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "QUY ĐỊNH", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TIÊU CHUẨN", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ĐÁNH GIÁ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "ĐỀ XUẤT", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PHÊ DUYỆT", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BÀN GIAO", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HỢP ĐỒNG", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KHÁCH HÀNG", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "NHÀ CUNG CẤP", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "LỊCH TRIỂN KHAI", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BIÊN BẢN", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "TỔNG HỢP", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "PHÂN TÍCH", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "THỐNG KÊ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BÁO CÁO TUẦN", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "BÁO CÁO THÁNG", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "MỤC TIÊU", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "KẾT QUẢ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "HẠN CHẾ", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
+{"term": "GIẢI PHÁP KỸ THUẬT", "tier": "C", "score": 1.1, "status": "active", "hits": 0, "corrections_fixed": 0, "created": "2026-10-31T23:21:45+0700", "updated": "2026-10-31T23:21:45+0700", "note": "seed"}
