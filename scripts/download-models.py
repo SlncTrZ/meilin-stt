@@ -13,6 +13,11 @@ from __future__ import annotations
 
 import argparse
 import sys
+
+# Console Windows mặc định cp1252 -> ép UTF-8 để log tiếng Việt không crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent

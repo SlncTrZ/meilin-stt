@@ -22,6 +22,11 @@ import sys
 import time
 from collections.abc import Callable
 from pathlib import Path
+
+# Console Windows mặc định cp1252 -> ép UTF-8 để log tiếng Việt không crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 from typing import Any
 
 from lexicon import pipeline

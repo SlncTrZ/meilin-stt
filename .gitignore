@@ -16,8 +16,10 @@ models/*.vocab
 data/utterances.jsonl
 data/feedback.jsonl
 data/device_profile.json
-data/artifacts/
-data/reports/
+data/artifacts/*
+!data/artifacts/.gitkeep
+data/reports/*
+!data/reports/.gitkeep
 data/*.log
 
 # --- Python ---------------------------------------------------------------

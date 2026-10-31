@@ -19,7 +19,7 @@ classifiers = [
   "Topic :: Multimedia :: Sound/Audio :: Speech",
 ]
 dependencies = [
-  "sherpa-onnx>=1.10.0",
+  "sherpa-onnx>=1.10,<2.0",
   "fastapi>=0.110",
   "uvicorn[standard]>=0.27",
   "numpy>=1.24",
@@ -59,3 +59,4 @@ ignore = ["E501"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 addopts = "-q"
+markers = ["integration: cần model thật, chạy tay với STT_RUN_INTEGRATION=1"]

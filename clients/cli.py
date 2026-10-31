@@ -19,6 +19,11 @@ import sys
 import wave
 from pathlib import Path
 
+# Console Windows mac dinh cp1252 -> ep UTF-8 de log tieng Viet khong crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 import httpx
 
 DEFAULT_HTTP = "http://127.0.0.1:8766"

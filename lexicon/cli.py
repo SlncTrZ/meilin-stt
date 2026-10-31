@@ -12,6 +12,11 @@ import argparse
 import json
 import sys
 from collections import Counter
+
+# Console Windows mặc định cp1252 -> ép UTF-8 để log tiếng Việt không crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 from pathlib import Path
 
 from lexicon import correct, pipeline, render, store

@@ -117,6 +117,7 @@ class Settings:
     gpu_min_free_mb: int = env_int("STT_GPU_MIN_FREE_MB", 1500)
     gpu_max_util: int = env_int("STT_GPU_MAX_UTIL", 40)
     ffmpeg_path: str = os.environ.get("STT_FFMPEG", "ffmpeg")
+    max_upload_mb: int = env_int("STT_MAX_UPLOAD_MB", 200)
 
     @property
     def model_cfg(self) -> dict[str, Any]:

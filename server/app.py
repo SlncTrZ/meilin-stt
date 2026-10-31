@@ -205,10 +205,28 @@ async def transcribe_file(
     segment: bool = Query(default=True),
 ) -> JSONResponse:
     """Transcribe 1 file trên đường batch (ưu tiên throughput)."""
+    limit_bytes = SETTINGS.max_upload_mb * 1024 * 1024
+    if file.size is not None and file.size > limit_bytes:
+        raise HTTPException(
+            status_code=413,
+            detail=f"File vượt giới hạn {SETTINGS.max_upload_mb}MB (STT_MAX_UPLOAD_MB)",
+        )
     suffix = Path(file.filename or "audio.wav").suffix or ".wav"
     with tempfile.NamedTemporaryFile(suffix=suffix, delete=False) as tmp:
         tmp_path = Path(tmp.name)
-        shutil.copyfileobj(file.file, tmp)
+        written = 0
+        while True:
+            chunk = file.file.read(1024 * 1024)
+            if not chunk:
+                break
+            written += len(chunk)
+            if written > limit_bytes:  # chặn cả khi client không gửi Content-Length
+                tmp_path.unlink(missing_ok=True)
+                raise HTTPException(
+                    status_code=413,
+                    detail=f"File vượt giới hạn {SETTINGS.max_upload_mb}MB (STT_MAX_UPLOAD_MB)",
+                )
+            tmp.write(chunk)
     try:
         audio = _decode_audio_upload(tmp_path)
         started = time.monotonic()

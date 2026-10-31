@@ -22,6 +22,11 @@ import argparse
 import sys
 from pathlib import Path
 
+# Console Windows mặc định cp1252 -> ép UTF-8 để log tiếng Việt không crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR))
 

@@ -14,6 +14,11 @@ import json
 import shutil
 import subprocess
 import sys
+
+# Console Windows mac dinh cp1252 -> ep UTF-8 de log tieng Viet khong crash.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 import time
 
 
